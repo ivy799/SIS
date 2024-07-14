@@ -1,0 +1,34 @@
+.full-width-button {
+    width: 80vw;
+    left: 0;
+    right: 0;
+    position: relative;
+}
+
+.classDropdown {
+    width: 80vw;
+    left: 0;
+    right: 0;
+    padding: 2%;
+    margin-bottom: 10px;
+}
+
+.classDropdown .btn {
+    width: 30%;
+}
+
+.form-control{
+    width: 50%;
+}
+
+.classButton{
+    margin-bottom: 10px;
+}
+
+.full-width-button {
+text-align: left;
+}
+
+.form-control{
+    width: 630px;
+}

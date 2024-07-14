@@ -1,0 +1,84 @@
+
+/* navbar */
+.navbar {
+    background-color: #4640E7 !important;
+}
+
+.container-fluid {
+    display: flex !important;
+    justify-content: center;
+    align-items: center;
+    color: white !important;
+    padding: 0% 7% 0% 5% !important;
+}
+
+.navbar-brand, .nav-link{
+    color: white !important;
+}
+
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: red;
+}
+
+
+/* sidebar */
+.bi-chevron-double-right{
+    font-size: 1.5rem !important;
+    color: #817BD4;
+}
+
+.offcanvas{
+    background-color: #817BD4;
+    color:white;
+}
+
+.dropdown-item{
+    padding: 1.5%;
+    /* background-color: rebeccapurple; */
+}
+
+.dropdown-item:hover{
+    background-color: #b3aff0;
+}
+
+
+/* dashboard */
+.row{
+    /* padding:; */
+    /* background-color: rebeccapurple; */
+    /* color: rosybrown ; */
+}
+
+.text-red-800 {
+    color: grey;
+    display: flex;
+}
+
+/* cards */
+.border-left-green{
+    border-left: .25rem solid #4caf50; /* Contoh warna hijau */
+}
+.text-green {
+    color: #4caf50 !important; /* Warna hijau yang sama untuk teks */
+}
+.border-left-blue{
+    border-left: .25rem solid #422cc2; /* Contoh warna hijau */
+}
+.text-blue {
+    color: #422cc2 !important; /* Warna hijau yang sama untuk teks */
+}
+.border-left-lblue{
+    border-left: .25rem solid #583aff; /* Contoh warna hijau */
+}
+.text-lblue {
+    color: #583aff !important; /* Warna hijau yang sama untuk teks */
+}
+.border-left-yellow{
+    border-left: .25rem solid #fbff28; /* Contoh warna hijau */
+}
+.text-yellow {
+    color: #babd04 !important; /* Warna hijau yang sama untuk teks */
+}
